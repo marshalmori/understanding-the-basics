@@ -51,4 +51,4 @@ const requestHandler = (req, res) => {
 
 //Código equivalente ao objeto de cima
 module.exports.handler = requestHandler;
-module.exports.someText = "Código feito pelo Marshal";
+module.exports.someText = "Código feito pelo Mori";
